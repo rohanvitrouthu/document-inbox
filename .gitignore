@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+.DS_Store
+
+# Local indexes may contain private document text.
+*.sqlite3
+*.sqlite3-*
